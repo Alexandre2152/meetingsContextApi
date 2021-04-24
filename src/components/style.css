@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+}
+
+.v_e_e {
+    width: 1rem;
+}
+
+.id {
+    width: 1rem;
+}
+
+.btnEnviar {
+    float: right;
+}
+
+.btnVoltar {
+    float: left;
+}
